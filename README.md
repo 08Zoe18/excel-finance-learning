@@ -13,3 +13,7 @@
 - 学习内容：数据透视表基础
 - 练习文件：[Excel_Day3_透视表练习.xlsx](./Day3/Excel_Day3_透视表练习.xlsx)
 - 收获：用透视表快速汇总3月各产品收入、成本及费用，验证了手动分析结果。
+## Day 4（2026.03.08）
+- 学习内容：VLOOKUP 进阶、INDEX+MATCH、辅助列、数据清洗函数（ABS, IF, EXACT, TRIM, TEXT）
+- 练习文件：[Day4VLOOKUP练习.xlsx](./Day4/银行对账练习.xlsx)
+- 函数总结：[Excel_Functions_Summary.md](./Day4/Excel_Functions_Summary.md)
